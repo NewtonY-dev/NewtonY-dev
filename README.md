@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Newton Yetsedaw
 
-💻 **Full-stack developer** | 🌱 Currently Working on *Personal Projects**
+💻 **Full-stack developer** | 🌱 Currently Working on **Personal Projects**
 
 ### 🚀 About Me
 - 🎓 Computer Science student passionate about building cool web apps.
