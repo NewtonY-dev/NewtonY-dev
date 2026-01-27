@@ -20,5 +20,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonY-dev&layout=compact&theme=radical)
 
 ### 🤝 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://https://newtonyetsedawportfolio.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://newtonyetsedaw.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:yetsedawn@gmail.com)
