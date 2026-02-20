@@ -8,7 +8,7 @@
 - 🌍 Based in Ethiopia.
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript,Typescript, C++  
+- **Languages:** JavaScript, Typescript, C++  
 - **Frontend:** React, HTML, CSS  
 - **Backend:** Node.js, Express, MongoDB, MySQL  
 - **Tools:** Git, VS Code, Postman  
