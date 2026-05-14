@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, Typescript, C++  
 - **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js, Express, MongoDB, MySQL  
+- **Backend:** Node.js, NestJS, Express, MongoDB, MySQL  
 - **Tools:** Git, VS Code, Postman  
 
 ### 📈 GitHub Stats
