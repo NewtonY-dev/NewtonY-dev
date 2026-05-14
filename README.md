@@ -32,11 +32,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonY-dev&layout=compact&theme=radical&langs_count=8&count_private=true" />
 </p>
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NewtonY-dev&theme=radical" alt="GitHub streak stats" />
-</p>
-
 ### 📊 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NewtonY-dev&theme=react-dark" alt="activity graph" />
